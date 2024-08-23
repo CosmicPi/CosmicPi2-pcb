@@ -1,0 +1,13 @@
+Cosmic Pi PCB specification
+Base material: FR-4
+Number of layers: 4
+PCB dimensions: 130mmx185mm
+PCB thickness: 1.6mm
+PCB colour: Green
+Surface finish: HASL lead free
+Minimum Solder Mask Dam: 0.4mm
+Copper weight: 1 oz
+Minimum Drill Hole Size: 0.3mm
+Trace width/spaceing: 6/6 mil
+Plated half holes/castellated holes: No
+Impedance control: No
